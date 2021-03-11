@@ -1,5 +1,0 @@
-﻿
-
-function whatever() {
-    alert("Works");
-}
